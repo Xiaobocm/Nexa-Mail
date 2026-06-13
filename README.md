@@ -1,4 +1,4 @@
-# HarmonyNext Mail Client
+# Nexa Mail Client
 
 [![GitHub Repository](https://img.shields.io/badge/Repo-HarmonyNextMail-blue)](https://github.com/xiaobocm/HarmonyNextMail)  
 [![Platform](https://img.shields.io/badge/platform-HarmonyOS%20NEXT-brightgreen)](https://developer.harmonyos.com/)  
